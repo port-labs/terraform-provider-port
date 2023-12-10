@@ -1,11 +1,10 @@
-<img align="right" src="https://user-images.githubusercontent.com/8277210/183290078-f38cdfd2-e5da-4562-82e6-f274d0330825.svg#gh-dark-mode-only" width="100" height="74" /> <img align="right" width="100" height="74" src="https://user-images.githubusercontent.com/8277210/183290025-d7b24277-dfb4-4ce1-bece-7fe0ecd5efd4.svg#gh-light-mode-only" />
-
 [DEPRECATED]
 
 This is the old version of Port's Terraform provider and is no longer maintained. To use Terraform to manage your Port account, please use the [new Terraform provider](https://docs.getport.io/build-your-software-catalog/sync-data-to-catalog/iac/terraform/) and look at the [terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) repository.
 
 You can also view the up to date version of Port's Terraform provider in the [Terraform registry](https://registry.terraform.io/providers/port-labs/port-labs/latest)
 
+<img align="right" src="https://user-images.githubusercontent.com/8277210/183290078-f38cdfd2-e5da-4562-82e6-f274d0330825.svg#gh-dark-mode-only" width="100" height="74" /> <img align="right" width="100" height="74" src="https://user-images.githubusercontent.com/8277210/183290025-d7b24277-dfb4-4ce1-bece-7fe0ecd5efd4.svg#gh-light-mode-only" />
 
 # Port Terraform Provider
 
